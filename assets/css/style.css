@@ -92,11 +92,17 @@ button {
     font-size: 15px;
 }
 
+/* Position the words in the Portfolio so that they would be on the images */
 h4 {
     background: #4aaaa5;
     color: #ffffff;
     height: 60px;
     width: 200px;
+}
+
+#img1, #img2, #img3, #img4, #img5 {
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 footer {
