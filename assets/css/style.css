@@ -1,0 +1,102 @@
+* {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+/* The Header at the top of every page */
+header {
+    margin-bottom: 20px;
+    /* float: left; */
+    background: #4aaaa5;
+    border: #cccccc;
+    /* background-color: #ffffff; */
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 400px;
+    height: 76px;
+    line-height: 32px;
+    color: white;
+    /* padding: 20px; */
+}
+
+h1 {
+    font-size: 36px;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+nav {
+    text-align: right;
+    width: 100%;
+    height: 76px;
+    line-height: 32px;
+}
+
+/* .about {
+    float: left;
+}
+
+.contact {
+    float: left;
+}
+
+.portfolio {
+    float: left;
+} */
+
+/* body {
+    border: #dddddd;
+    background: #ffffff;
+} */
+
+body {
+    /* font-family: ‘Arial’, ‘Helvetica Neue’, Helvetica, sans-serif; */
+    /* background: #ffffff; */
+    background-image: url('../images/zigZagWool.png');
+    /* width: 960px; */
+}
+
+h2{
+    color: #4aaaa5;
+}
+
+#bio {
+    background: #ffffff;
+    border: #dd00dd solid;
+    width: 650px;
+    margin-left: 20px;
+    float: left;
+}
+
+#bio-image {
+    float: left;
+    margin-right: 20px;
+}
+
+#contact {
+    background: #ffffff;
+    border: #dd00dd solid;    
+    width: 270px;
+    margin-left: 40px;
+    float: left;
+}
+
+.aboutMe {
+    /* clear: both; */
+}
+
+.bioGraphy {
+    float: left;
+    overflow: auto;
+}
+
+footer {
+    clear: both;
+    padding: 20px 0px;
+    margin-bottom: 20px;
+    text-align: center;
+    background: #666666;
+    width: 100%;
+}
